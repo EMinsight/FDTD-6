@@ -1,0 +1,3 @@
+-用c++来实现计算电磁学中的FDTD算法  
+-用matlab运行"show.m"即可观察到电磁传播  
+-具体过程详述请[点击此处](https://clamtian.gitee.io/categories/FDTD/)
