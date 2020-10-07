@@ -1,0 +1,5 @@
+thi: 30
+phi: 30
+pol: 0
+startTime: 80
+isSpherePresent: 1
